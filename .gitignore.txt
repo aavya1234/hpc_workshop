@@ -1,0 +1,4 @@
+*venv
+sales_data.csv
+sales_model.pkl
+__pycache__
